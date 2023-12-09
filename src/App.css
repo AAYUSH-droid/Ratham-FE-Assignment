@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Ubuntu&display=swap');
+body {
+  background: #f0f0f0;
+}
+.info {
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 5rem;
+  padding: 0rem;
+  padding-top: 30vh;
+  background-color: khaki;
+}
+
+.enroll_button,
+.btn-exit {
+  background: #76e6ff;
+  margin: 4rem;
+  color: white;
+  font-size: 2rem;
+  border: 1px solid;
+  cursor: pointer;
+  font-family: 'Josefin Sans', sans-serif;
+
+  border-radius: 1rem;
+  padding: 1rem 5rem;
+}
+.enroll_button:hover {
+  background: #43d8f9;
+}
+
+.chatbot-container {
+  width: 100vw;
+  padding-left: 42%;
+
+  height: 70vh;
+  margin-top: 4rem;
+}
+.react-chatbot-kit-chat-container {
+  font-size: 1.3rem;
+}
+.react-chatbot-kit-chat-bot-message {
+  font-size: 1.3rem;
+}
+#gotItButton {
+  border: 1px;
+  background: #e2e2e2;
+  border-radius: 1rem;
+  color: #000000;
+  padding: 1rem;
+  cursor: pointer;
+  width: 5rem;
+}
+.btn {
+  padding: 0.5rem 1rem;
+  margin: 1px;
+  font-size: 13px;
+}
+#age option {
+  border: none;
+  padding: 10px;
+  font-size: 17px;
+  margin: 2px;
+}
+#age {
+  border: none;
+  padding: 10px;
+  font-size: 17px;
+  margin: 2px;
+}
+.info_display {
+  margin-top: 30vh;
+  font-size: 1.5rem;
+  width: 50vw;
+  margin-left: 24vw;
+  align-items: center;
+  justify-self: center;
+  text-align: center;
+}
+.btn-exit {
+  border: none !important;
+}
