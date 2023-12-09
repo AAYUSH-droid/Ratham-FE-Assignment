@@ -1,7 +1,5 @@
-# ChatABit
-
-It's a chatbot that is made for taking students information and fixing meeting with dean as the Dean's schedule.
-
 # Preview
+https://github.com/AAYUSH-droid/Ratham-FE-Assignment-/assets/76835619/72595d34-7883-4560-9a3b-aba4144dd6c5
 
-![chatbotNew](https://github.com/Satyapriyo/ChatABit/assets/97757641/0661eaec-0fc2-4e89-9245-f3ac3f285ce2)
+
+
